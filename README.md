@@ -36,9 +36,9 @@ Just follow 3 simple steps :
 
 2. Open Command Prompt and give command 'cd Downloads' . <br>
 
-3. Then directory change to Downloads and then give command 'cd "Face Counting"'  .<br>
+3. Then directory change to Downloads and then give command 'cd Face-Counting-master'  .<br>
 
-4. Then directory change to "Face Counting" and give command python app.py .Results comes as given below: <br><br>
+4. Then directory change to "Face-Counting-master" and give command python app.py .Results comes as given below: <br><br>
 
 ![](https://github.com/vicky60629/Face-Counting/blob/master/results/2020-06-25%2016_23_57-Window.png)<br>
 
