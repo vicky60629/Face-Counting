@@ -3,6 +3,7 @@
 ## Table of Content
   * [Directory Tree](#directory-tree)
   * [Problem Statement](#problem-statement)
+  * [Installation](#installation)
   * [How to Use](#how-to-use)
   * [LICENSE](#license)
   
@@ -27,6 +28,12 @@ The method of face detection in pictures is complicated because of variability p
 Object detection is one of the computer technologies, which connected to the image processing and computer vision and it interacts with detecting instances of an object such as human faces, building, tree, car, etc. The primary aim of face detection algorithms is to determine whether there is any face in an image or not. We challenge all the hackers to participate in this computer vision challenge that aims to test skills in deep learning and object detection.
 
 People detection and head counting is one of the classical albeit challenging computer vision application. For this problem, given a group selfie/photo, you are required to count the number of heads present in the picture.
+
+## Installation
+The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
 
 ### How to Use
 
